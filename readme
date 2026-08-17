@@ -1,0 +1,27 @@
+Live Site: https://yessinefathallah.github.io/portfolio/
+
+A clean, modern, and fully responsive developer portfolio built to showcase my latest software projects and professional experience
+
+## 🛠️ Tech Stack
+- **Frontend:**HTML, CSS
+
+## ✨ Key Features
+- **Performance Optimized:** Achieving 100/100 scores across all Google Lighthouse metrics.
+- **Form Handling:** Secure, automated contact form validation via Formspree.
+
+## 🚀 Running Locally
+
+```bash
+# Clone the repository
+git clone https://github.com
+
+# Install packages
+npm install
+
+# Run development server
+npm run dev
+```
+
+## 📬 Contact
+
+- **Email:** yessinefathallah@proton.me
